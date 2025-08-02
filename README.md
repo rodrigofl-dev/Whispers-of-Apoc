@@ -1,4 +1,4 @@
-# Whispers-of-Apoc
+# Whispers of Apoc
 
 Pure knowledge!
 
